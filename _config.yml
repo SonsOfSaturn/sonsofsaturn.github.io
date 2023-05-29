@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Charles"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "The guy who finally caved to his intrusive thoughts and made a video game."
+  location         : "Northeast U.S."
   email            : sonsofsaturngame@gmail.com
   links:
     - label: "Email"
