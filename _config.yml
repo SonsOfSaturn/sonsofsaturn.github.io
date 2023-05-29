@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Charles"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The guy who finally caved to his intrusive thoughts and made a video game."
+  bio              : "I caved to my intrusive thoughts and made a video game."
   location         : "Northeast U.S."
   links:
     - label: "Email"
