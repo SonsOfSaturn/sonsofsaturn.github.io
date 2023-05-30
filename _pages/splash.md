@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Atlantis_DevinEdit.jpg 
+  height: 2000
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
