@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /home/charles/sonsofsaturn.github.io/assets/images/Atlantis_DevinEdit.jpg 
+  overlay_image: /assets/images/Atlantis_DevinEdit.jpg 
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -15,7 +15,7 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /home/charles/sonsofsaturn.github.io/assets/images/Barcelona_1.jpg
+  - image_path: /assets/images/Barcelona_1.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
