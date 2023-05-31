@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /
 header:
   overlay_color: "#000"
@@ -8,8 +9,6 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "The game where your choices don't matter."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 feature_row2:
   - image_path: /assets/images/Berlin_Unterwelt_3.jpg
