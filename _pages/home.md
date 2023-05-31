@@ -9,14 +9,12 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "The game where your choices don't matter.
-            
-            
-            
-            
-            
-            
-            
-            
+           \n 
+           \n 
+           \n 
+           \n 
+           \n 
+           \n 
             "
 
 feature_row2:
