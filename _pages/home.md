@@ -2,11 +2,22 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/down_tunnel_wide.png 
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/down_tunnel_wide.png 
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "The game where your choices don't matter."
+excerpt: "The game where your choices don't matter.
+            
+            
+            
+            
+            
+            
+            
+            
+            "
 
 feature_row2:
   - image_path: /assets/images/Berlin_Unterwelt_3.jpg
