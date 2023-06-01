@@ -11,7 +11,7 @@ header:
 excerpt: "The game where your choices don't matter."
 
 feature_row2:
-  - image_path: /assets/images/Berlin_Unterwelt_3.jpg
+  - image_path: /assets/images/Berlin_Unterwelt_3_Cropped.jpg
     alt: "placeholder image 2"
     title: "A first person exploration game with a strong emphasis on atmosphere."
     excerpt: 'Explore the depths of Pandora, an abandoned underground city where memories cling to life.'
