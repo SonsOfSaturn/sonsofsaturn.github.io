@@ -27,7 +27,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/ss-roaming-topfloor.jpg
+  - image_path: /assets/images/ss-roaming-topfloor.png
     alt: "placeholder image 2"
     title: "Demo now available!"
     excerpt: 'A vertical slice of the first portion of the game is complete.  Shoot me an email (contact info on the left) if you are interested in playing it!'
