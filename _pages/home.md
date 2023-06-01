@@ -8,7 +8,12 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "The game where your choices don't matter."
+excerpt: "The game where your choices don't matter.
+            test
+            test
+            test
+            test
+            test"
 
 feature_row2:
   - image_path: /assets/images/Berlin_Unterwelt_3.jpg
