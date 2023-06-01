@@ -1,14 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Splash Page"
-    url: https://sonsofsaturn.github.io/splash-page
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: https://sonsofsaturngame.com/about
+  - title: "Development"
+    url: https://sonsofsaturngame.com/development
+  - title: "Artwork"
+    url: https://sonsofsaturngame.com/artwork
