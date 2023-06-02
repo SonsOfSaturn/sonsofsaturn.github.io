@@ -6,6 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/development.png
+excerpt: "Or: how this game came to be."
 date: 2023-06-01T03:19:20+00:00
 ---
 
