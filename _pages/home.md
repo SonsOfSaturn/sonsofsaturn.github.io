@@ -15,7 +15,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "A first person exploration game with a strong emphasis on atmosphere."
     excerpt: 'Explore the depths of Pandora, an abandoned underground city where memories cling to life.'
-    url: "#test-link"
+    url: "development"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -27,13 +27,18 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
+  - image_path: /assets/images/overgrowth_arch_squarecrop.jpg
+    alt: "placeholder image 2"
+    title: "Developed by explorers and artists."
+    excerpt: 'The world of Pandora was brought to life by a team of urban explorers with backgrounds in engineering, art, and music composition.'
+    url: "about"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row5:
   - image_path: /assets/images/ss-roaming-topfloor.png
     alt: "placeholder image 2"
     title: "Demo now available!"
     excerpt: 'A vertical slice of the first portion of the game is complete.  Shoot me an email (contact info on the left) if you are interested in playing it!'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -42,5 +47,7 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="center" %}
 ---
