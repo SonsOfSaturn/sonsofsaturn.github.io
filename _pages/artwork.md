@@ -42,8 +42,8 @@ gallery2:
     image_path: /assets/images/Atlantis_DevinEdit.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/Barcelona_1.jpg
-    image_path: /assets/images/Barcelona_1.jpg
+  - url: /assets/images/Columnis_Pol_3.jpg
+    image_path: /assets/images/Columnis_Pol_3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/Byzantium_2.jpg
@@ -58,8 +58,8 @@ gallery2:
     image_path: /assets/images/Cave3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/Columnis_Pol_3.jpg
-    image_path: /assets/images/Columnis_Pol_3.jpg
+  - url: /assets/images/Barcelona_1.jpg
+    image_path: /assets/images/Barcelona_1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/Illusion_Caves_3.jpg
@@ -76,6 +76,6 @@ Below is a small collection of assets that are being used in development.  All o
 
 {% include gallery id="gallery" layout="half" %}
 
-Further, Sons of Saturn includes several collage pieces from Alex Burgess.  Several of his pieces are included below.
+Further, Sons of Saturn includes several collage pieces from Alex Burden.  Several of his pieces are included below.
 
 {% include gallery id="gallery2" layout="half" %}
