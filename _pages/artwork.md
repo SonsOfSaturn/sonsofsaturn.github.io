@@ -41,35 +41,35 @@ gallery2:
   - url: /assets/images/Atlantis_DevinEdit.jpg
     image_path: /assets/images/Atlantis_DevinEdit.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Atlantis"
   - url: /assets/images/Columnis_Pol_3.jpg
     image_path: /assets/images/Columnis_Pol_3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Columns"
   - url: /assets/images/Byzantium_2.jpg
     image_path: /assets/images/Byzantium_2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Byzantium"
   - url: /assets/images/Catacombs_2.jpg
     image_path: /assets/images/Catacombs_2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Catacombs"
   - url: /assets/images/Cave3.jpg
     image_path: /assets/images/Cave3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Cave"
   - url: /assets/images/Barcelona_1.jpg
     image_path: /assets/images/Barcelona_1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Barcelona"
   - url: /assets/images/Illusion_Caves_3.jpg
     image_path: /assets/images/Illusion_Caves_3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/Opener_Cave.jpg
-    image_path: /assets/images/Opener_Cave.jpg
+    title: "Illusion Cavern"
+  - url: /assets/images/SubParis.jpg
+    image_path: /assets/images/SubParis.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Sub-Paris"
 ---
 
 Below is a small collection of assets that are being used in development.  All of these are filtered versions of real photos collected by the developers.
