@@ -67,7 +67,7 @@ gallery2:
     alt: "placeholder image 1"
     title: "Illusion Cavern"
   - url: /assets/images/SubParis.jpg
-    image_path: /assets/images/SubParis.jpg
+    image_path: /assets/images/SubParis_4.jpg
     alt: "placeholder image 1"
     title: "Sub-Paris"
 ---
