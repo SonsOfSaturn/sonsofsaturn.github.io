@@ -17,7 +17,7 @@ The first step was choosing a game engine.  I ended up choosing Godot, both for 
 Next I needed to decide what to focus on, design wise.  I knew I wanted to make something with a strong emphasis on atmosphere and narrative, a la *Night in the Woods* or *Disco Elysium*.  Structurally, a first person point and click style game seemed best suited, given the nature of my photo assets.  When it came time to deciding how this would actually play out, I adopted the *Team Ico* "subtractive design" approach.  I wanted a point and click game with a world you could engage in, but any superfluous mechanics were to be cut - anything unnecessary distracts the player and breaks the immersion.  That said, I had to be careful not to polish it down to nothing, as narratives require engagement for the player to be invested.  Ultimately, I found that the game worked best if structured like a classic point and click game, but with the more esoteric trappings of the genre largely stripped out.  The player is still required to manipulate parts of their environment, talk to people, and make decisions - but the player should be spared the experience of dragging every item in their inventory against every pixel they see.
 
 <figure>
-	<a href="https://sonsofsaturngame.com/assets/images/sub-design.png"><img src="https://sonsofsaturngame.com/assets/images/sub-design.png"></a>
+	<a href="https://sonsofsaturngame.com/assets/images/sub-design.jpeg"><img src="https://sonsofsaturngame.com/assets/images/sub-design.jpeg"></a>
 	<figcaption>Subtract away everything unnecessary - but nothing more.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Next, I needed to make my exploring images work for this format.  Simply using t
 
 <figure class="half">
     <a href="/assets/images/color-chairs-unfiltered.jpg"><img src="/assets/images/color-chairs-unfiltered.jpg"></a>
-    <a href="/assets/images/GameStills/colorful_chair_hall.jpg"><img src="/assets/images/GameStills/colorful_chair_hall.jpg"></a>
+    <a href="/assets/images/GameStills/colorful_chair_hall.png"><img src="/assets/images/GameStills/colorful_chair_hall.png"></a>
     <figcaption>Image before and after application of the cutout filter.</figcaption>
 </figure>
 

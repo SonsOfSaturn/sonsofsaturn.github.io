@@ -27,7 +27,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/alex.jpg
+  - image_path: /assets/images/alex.png
     alt: "placeholder image 2"
     title: "Developed by explorers and artists."
     excerpt: 'The world of Pandora was brought to life by a team of urban explorers with backgrounds in engineering, art, and music composition.'
