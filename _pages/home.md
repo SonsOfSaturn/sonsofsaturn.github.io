@@ -14,7 +14,7 @@ feature_row2:
   - image_path: /assets/images/Berlin_Unterwelt_3_Cropped.jpg
     alt: "placeholder image 2"
     title: "A first person exploration game with a strong emphasis on atmosphere."
-    excerpt: 'Explore the depths of Pandora, an abandoned underground city where memories cling to life.'
+    excerpt: 'Explore the depths of Pandora, an abandoned underground city where the dead dream and memories cling to life.'
     url: "artwork"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -22,7 +22,7 @@ feature_row3:
   - image_path: /assets/images/overgrowth_arch_squarecrop.jpg
     alt: "placeholder image 2"
     title: "Real photos.  Real imagination."
-    excerpt: 'Nearly all of the assets were created using real photos collected by the development team of abandoned locations all around the world.'
+    excerpt: 'The world of Pandora is brought to life using original photos of abandoned locations all around the world.'
     url: "artwork"
     btn_label: "Read More"
     btn_class: "btn--primary"
