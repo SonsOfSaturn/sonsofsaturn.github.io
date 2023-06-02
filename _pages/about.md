@@ -2,6 +2,18 @@
 layout: single
 title: "About"
 permalink: /about/
+author:
+  name             : "Charles"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I caved to my intrusive thoughts and made a video game."
+  location         : "Northeast U.S."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sonsofsaturngame@email.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/interstitial_explorer"
 date: 2023-06-01T03:19:20+00:00
 ---
 
