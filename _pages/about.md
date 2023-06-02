@@ -11,3 +11,7 @@ Music Producer Seth Emans provided several compositions for the Sons of Saturn s
 
 Artist Alex Burden provided several collage pieces seen throughout the game, and created the *Grand Subteranean Line*, the larger underground world of which Sons of Saturn is a part.  You can find more of his work at *Fill in*
 
+<figure>
+	<a href="assets/images/alex.png"><img src="assets/images/alex.png"></a>
+	<figcaption>Alex Burden emerging from an interdimensional portal.</figcaption>
+</figure>
