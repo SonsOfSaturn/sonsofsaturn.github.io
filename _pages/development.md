@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Development"
 permalink: /development/
 header:
