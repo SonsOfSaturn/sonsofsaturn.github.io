@@ -3,6 +3,19 @@ layout: single
 title: "Artwork"
 permalink: /artwork/
 date: 2023-06-01T03:19:20+00:00
+author:
+  name             : "Charles"
+  avatar           : "/assets/images/selfie.png"
+  bio              : "I caved to my intrusive thoughts and made a video game."
+  location         : "Northeast U.S."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sonsofsaturngame@email.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/interstitial_explorer"
+author_profile: true
 gallery:
   - url: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     image_path: /assets/images/GameStills/atown_rooftop_over_breezeway.png

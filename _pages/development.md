@@ -7,6 +7,19 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/development.png
 excerpt: "Or: how this game came to be."
+author:
+  name             : "Charles"
+  avatar           : "/assets/images/selfie.png"
+  bio              : "I caved to my intrusive thoughts and made a video game."
+  location         : "Northeast U.S."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sonsofsaturngame@email.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/interstitial_explorer"
+author_profile: true
 date: 2023-06-01T03:19:20+00:00
 ---
 
