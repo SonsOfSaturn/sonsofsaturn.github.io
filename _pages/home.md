@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/down_tunnel_wide.png 
   actions:
     - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "The game where your choices don't matter."
 
 feature_row2:
@@ -39,6 +38,9 @@ feature_row5:
     alt: "placeholder image 2"
     title: "Demo now available!"
     excerpt: 'A vertical slice of the first portion of the game is complete.  Shoot me an email (contact info on the left) if you are interested in playing it!'
+    url: "contact"
+    btn_label: "Contact Us"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
