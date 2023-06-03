@@ -1,11 +1,11 @@
 ---
-layout: splash
+layout: single
 title: "Artwork"
 permalink: /artwork/
 date: 2023-06-01T03:19:20+00:00
 author:
   name             : "Charles"
-  avatar           : "/assets/images/selfie.png"
+  avatar           : "/assets/images/new_selfie.png"
   bio              : "I caved to my intrusive thoughts and made a video game."
   location         : "Northeast U.S."
   links:

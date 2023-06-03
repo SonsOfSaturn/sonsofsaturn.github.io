@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author:
   name             : "Charles"
-  avatar           : "/assets/images/selfie.png"
+  avatar           : "/assets/images/new_selfie.png"
   bio              : "I caved to my intrusive thoughts and made a video game."
   location         : "Northeast U.S."
   links:
