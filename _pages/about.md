@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "About"
 permalink: /about/
 author:
@@ -13,6 +14,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/interstitial_explorer"
+author_profile: true
 date: 2023-06-01T03:19:20+00:00
 ---
 
