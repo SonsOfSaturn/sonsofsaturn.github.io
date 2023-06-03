@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+author_profile: false
 title: "Artwork"
 permalink: /artwork/
 date: 2023-06-01T03:19:20+00:00
