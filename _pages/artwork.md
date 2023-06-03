@@ -1,7 +1,5 @@
 ---
 layout: single
-classes: wide
-author_profile: false
 title: "Artwork"
 permalink: /artwork/
 date: 2023-06-01T03:19:20+00:00
@@ -76,8 +74,8 @@ gallery2:
 
 Below is a small collection of assets that are being used in development.  All of these are filtered versions of real photos collected by the developers.
 
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" layout="full" %}
 
 Further, Sons of Saturn includes several collage pieces from Alex Burden.  Several of his pieces are included below.
 
-{% include gallery id="gallery2" layout="half" %}
+{% include gallery id="gallery2" layout="full" %}
