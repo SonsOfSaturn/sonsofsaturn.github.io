@@ -2,19 +2,6 @@
 layout: single
 title: "About"
 permalink: /about/
-author:
-  name             : "Charles"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I caved to my intrusive thoughts and made a video game."
-  location         : "Northeast U.S."
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sonsofsaturngame@email.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/interstitial_explorer"
-author_profile: true
 date: 2023-06-01T03:19:20+00:00
 ---
 
@@ -26,6 +13,11 @@ Sons of Saturn is primarily solo-developed by Charles Lawson.  Charles collected
 </figure>
 
 Music Producer Seth Emans provided several compositions for the Sons of Saturn soundtrack.  You can find more of his work [here.](https://singularity27-productions.bandcamp.com/music)
+
+<figure>
+	<a href="https://sonsofsaturngame.com/assets/images/seth.jpg"><img src="https://sonsofsaturngame.com/assets/images/seth.jpg"></a>
+	<figcaption>Seth, just hang out, but in a photogenic way.</figcaption>
+</figure>
 
 Artist Alex Burden provided several collage pieces seen throughout the game, and created the *Grand Subteranean Line*, the larger underground world of which Sons of Saturn is a part.  You can find more of his work at *Fill in*
 
