@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author:
   name             : "Charles"
-  avatar           : "/assets/images/new_selfie.png"
+  avatar           : "/assets/images/selfie.png"
   bio              : "I caved to my intrusive thoughts and made a video game."
   location         : "Northeast U.S."
   links:
