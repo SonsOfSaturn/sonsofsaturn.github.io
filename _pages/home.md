@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/SoSHeader.png 
+  image: /assets/images/SoSHeaderTrimmed.png 
 excerpt: "The game where your choices don't matter."
 
 feature_row2:
