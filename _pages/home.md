@@ -9,7 +9,7 @@ feature_row2:
   - image_path: /assets/images/Berlin_Unterwelt_3_Cropped.jpg
     alt: "placeholder image 2"
     title: "A first person exploration game with a strong emphasis on atmosphere."
-    excerpt: 'Explore the depths of Pandora, an abandoned underground city where the dead dream and memories cling to life.'
+    excerpt: 'Explore the depths of Minerva, an abandoned underground city where the dead dream and memories cling to life.'
     url: "development"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -25,7 +25,7 @@ feature_row4:
   - image_path: /assets/images/alex.png
     alt: "placeholder image 2"
     title: "Developed by explorers and artists."
-    excerpt: 'The world of Pandora was brought to life by a team of urban explorers with backgrounds in engineering, art, and music composition.'
+    excerpt: 'Sons of Saturn was brought to life by a team of urban explorers with backgrounds in engineering, art, and music composition.'
     url: "about"
     btn_label: "Read More"
     btn_class: "btn--primary"
