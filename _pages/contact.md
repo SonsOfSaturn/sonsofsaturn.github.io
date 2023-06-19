@@ -10,7 +10,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sonsofsaturngame@email.com"
+      url: "mailto:sonsofsaturngame@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/interstitial_explorer"
