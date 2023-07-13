@@ -33,9 +33,9 @@ feature_row5:
   - image_path: /assets/images/ss-roaming-topfloor.png
     alt: "placeholder image 2"
     title: "Demo now available!"
-    excerpt: 'A vertical slice of the first portion of the game is complete.  Shoot me an email (contact info on the left) if you are interested in playing it!'
-    url: "contact"
-    btn_label: "Contact Us"
+    excerpt: 'A vertical slice of the first portion of the game is complete, and available for free on Steam.  Visit the Steam store page by clicking the button below!'
+    url: "https://store.steampowered.com/app/2493140/Sons_of_Saturn/"
+    btn_label: "Steam Page"
     btn_class: "btn--primary"
 ---
 
