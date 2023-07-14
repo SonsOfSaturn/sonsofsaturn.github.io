@@ -20,7 +20,19 @@ date: 2023-06-01T03:19:20+00:00
 feature_row1:
   - image_path: /assets/images/casefile_cropped.jpg
     alt: "placeholder image 2"
-    excerpt: "Julia's character is portrayed by anonymous artist: exploring.her -- known for self-portraiture amidst urban decay, 'Her' work continues to challenge norms around nudity in a world focused on perception of the hidden. Check out more of her work [here.](https://singularity27-productions.bandcamp.com/music)"
+    excerpt: "Julia's character is portrayed by anonymous artist: exploring.her -- known for self-portraiture amidst urban decay, 'Her' work continues to challenge norms around nudity in a world focused on perception of the hidden. Check out more of her work [here.](https://www.instagram.com/exploring.her/)"
+feature_row2:
+  - image_path: /assets/images/wiggly.jpg
+    alt: "placeholder image 2"
+    excerpt: "Austin is a bee-keeper, mead fermenter, and bread baker.  All around he's probably the best person you could have on your team in any post-apocolypse society."
+feature_row3:
+  - image_path: /assets/images/amelie.png
+    alt: "placeholder image 2"
+    excerpt: "Amelie is a local flannel owner, engineer, and weirdo"
+feature_row4:
+  - image_path: /assets/images/jasper.png
+    alt: "placeholder image 2"
+    excerpt: "Jasper is a cursed cat doll I bought on eBay."
 ---
 
 # Developers
@@ -51,3 +63,6 @@ Artist Alex Burden provided several collage pieces seen throughout the game, and
 # Models
 
 {% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
