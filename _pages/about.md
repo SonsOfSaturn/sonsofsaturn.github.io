@@ -16,6 +16,11 @@ author:
       url: "https://instagram.com/interstitial_explorer"
 author_profile: true
 date: 2023-06-01T03:19:20+00:00
+
+feature_row1:
+  - image_path: /assets/images/casefile_cropped.jpg
+    alt: "placeholder image 2"
+    excerpt: 'Julia's character is portrayed by anonymous artist: exploring.her -- known for self-portraiture amidst urban decay, 'Her' work continues to challenge norms around nudity in a world focused on perception of the hidden. Check out more of her work here.'
 ---
 
 Sons of Saturn is primarily solo-developed by Charles Lawson.  Charles collected and edited nearly all of the image assets used and was responsible for programming the game and writing the script.
@@ -38,3 +43,5 @@ Artist Alex Burden provided several collage pieces seen throughout the game, and
 	<a href="https://sonsofsaturngame.com/assets/images/alex.png"><img src="https://sonsofsaturngame.com/assets/images/alex.png"></a>
 	<figcaption>Alex emerging from an interdimensional portal.</figcaption>
 </figure>
+
+{% include feature_row id="feature_row1" type="left" %}
