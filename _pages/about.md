@@ -28,7 +28,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/amelie.png
     alt: "placeholder image 2"
-    excerpt: "Amelie is a local flannel owner, engineer, and weirdo"
+    excerpt: "Amelie is a local flannel owner, engineer, and weirdo."
 feature_row4:
   - image_path: /assets/images/jasper.png
     alt: "placeholder image 2"
