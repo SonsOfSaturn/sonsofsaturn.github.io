@@ -23,12 +23,16 @@ feature_row1:
     excerpt: "Julia's character is portrayed by anonymous artist: exploring.her -- known for self-portraiture amidst urban decay, 'Her' work continues to challenge norms around nudity in a world focused on perception of the hidden. Check out more of her work here."
 ---
 
+# Developers
+
 Sons of Saturn is primarily solo-developed by Charles Lawson.  Charles collected and edited nearly all of the image assets used and was responsible for programming the game and writing the script.
 
 <figure>
 	<a href="https://sonsofsaturngame.com/assets/images/charles_square.png"><img src="https://sonsofsaturngame.com/assets/images/charles_square.png"></a>
 	<figcaption>Charles trying and failing to find the perfect angle.</figcaption>
 </figure>
+
+# Contributors
 
 Music Producer Seth Emans provided several compositions for the Sons of Saturn soundtrack.  You can find more of his work [here.](https://singularity27-productions.bandcamp.com/music)
 
@@ -43,5 +47,7 @@ Artist Alex Burden provided several collage pieces seen throughout the game, and
 	<a href="https://sonsofsaturngame.com/assets/images/alex.png"><img src="https://sonsofsaturngame.com/assets/images/alex.png"></a>
 	<figcaption>Alex emerging from an interdimensional portal.</figcaption>
 </figure>
+
+# Models
 
 {% include feature_row id="feature_row1" type="left" %}
