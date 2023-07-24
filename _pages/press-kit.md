@@ -96,13 +96,19 @@ gallery2:
 
 # Description
 
+Text
+
 # Trailer
+
+Text
 
 # Screenshots
 
+Text
+
 # Before and After
 
-{% include gallery id="gallery1" layout="half" %}
+Text
 
 # Artwork
 
@@ -111,3 +117,5 @@ Further, Sons of Saturn includes several collage pieces from Alex Burden.  Sever
 {% include gallery id="gallery2" layout="half" %}
 
 # Contact
+
+Text
