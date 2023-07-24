@@ -100,7 +100,7 @@ gallery2:
 
 # Screenshots
 
-{% include feature_row %}
+{% include feature_row1 %}
 
 # Before and After
 
