@@ -94,7 +94,7 @@ Text
 
 Text
 
-<iframe src="https://www.youtube.com/embed/MU9sobaVx6I" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="0vpP9D0CwSU" provider="youtube" %}
 
 # Screenshots
 
