@@ -100,12 +100,9 @@ gallery2:
 
 # Screenshots
 
-{% include feature_row1 %}
-
 # Before and After
 
-
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery1" layout="half" %}
 
 # Artwork
 
