@@ -17,14 +17,6 @@ author:
       url: "https://instagram.com/interstitial_explorer"
 author_profile: true
 
-feature_row1:
-   - alt: "placeholder image 2"
-    title: "Download all images and screenshots."
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "/press/install.php"
-    btn_label: "Download"
-    btn_class: "btn--primary"
-
 gallery:
   - url: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     image_path: /assets/images/GameStills/atown_rooftop_over_breezeway.png
@@ -117,5 +109,3 @@ Further, Sons of Saturn includes several collage pieces from Alex Burden.  Sever
 {% include gallery id="gallery2" layout="half" %}
 
 # Contact
-
-Text
