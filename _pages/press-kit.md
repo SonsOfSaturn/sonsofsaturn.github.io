@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: single
 title: "Press Kit"
 permalink: /press-kit/
