@@ -18,7 +18,42 @@ author:
       url: "https://instagram.com/interstitial_explorer"
 author_profile: true
 
-gallery:
+gallery1:
+  - url: /assets/images/ss-roaming-brightarch.png
+    image_path: /assets/images/ss-roaming-brightarch.png
+    alt: "placeholder image 1"
+    title: "Arches"
+  - url: /assets/images/ss-roaming-drugs.png
+    image_path: /assets/images/ss-roaming-drugs.png
+    alt: "placeholder image 2"
+    title: "Drugged"
+  - url: /assets/images/ss-roaming-topfloor.png
+    image_path: /assets/images/ss-roaming-topfloor.png
+    alt: "placeholder image 3"
+    title: "Hallway"
+  - url: /assets/images/ss-roaming-washers_1.png
+    image_path: /assets/images/ss-roaming-washers_1.png
+    alt: "placeholder image 4"
+    title: "Conduit Hallway"
+  - url: /assets/images/ss-convo-stagehell.png
+    image_path: /assets/images/ss-convo-stagehell.png
+    alt: "placeholder image 4"
+    title: "Front Desk"
+  - url: /assets/images/ss-convo-ladder.png
+    image_path: /assets/images/ss-convo-ladder.png
+    alt: "placeholder image 4"
+    title: "Office"
+  - url: /assets/images/ss-convo-tanndesk.png
+    image_path: /assets/images/ss-convo-tanndesk.png
+    alt: "placeholder image 4"
+    title: "Drain Stairs"
+  - url: /assets/images/ss-convo-juststoodup.png
+    image_path: /assets/images/ss-convo-juststoodup.png
+    alt: "placeholder image 4"
+    title: "Colorful Chairs"
+
+
+gallery2:
   - url: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     image_path: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     alt: "placeholder image 1"
@@ -52,7 +87,7 @@ gallery:
     alt: "placeholder image 4"
     title: "Colorful Chairs"
 
-gallery2:
+gallery3:
   - url: /assets/images/Atlantis_DevinEdit.jpg
     image_path: /assets/images/Atlantis_DevinEdit.jpg
     alt: "placeholder image 1"
@@ -93,20 +128,24 @@ Text
 
 # Trailer
 
-Text
-
 {% include video id="0vpP9D0CwSU" provider="youtube" %}
 
 # Screenshots
 
-Text
+{% include gallery id="gallery1" layout="half" %}
 
 # Before and After
 
-# Artwork
-
-Further, Sons of Saturn includes several collage pieces from Alex Burden.  Several of his pieces are included below.
+Some of the assets used in the game alongside their unedited counterparts.
 
 {% include gallery id="gallery2" layout="half" %}
+
+# Artwork
+
+Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Several of his pieces are included below.
+
+{% include gallery id="gallery3" layout="half" %}
+
+# Logo
 
 # Contact
