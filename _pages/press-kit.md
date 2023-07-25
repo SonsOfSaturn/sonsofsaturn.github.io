@@ -148,4 +148,6 @@ Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Sev
 
 # Logo
 
+![image-center](/assets/images/SonsOfSaturnLogo.png){: .align-center}
+
 # Contact
