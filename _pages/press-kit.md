@@ -70,6 +70,10 @@ gallery2:
     image_path: /assets/images/GameStills/conduit_hallway.png
     alt: "placeholder image 4"
     title: "Conduit Hallway"
+  - url: /assets/images/conduits_unedited.png
+    image_path: /assets/images/GameStills/conduit_hallway.png
+    alt: "placeholder image 4"
+    title: "Conduit Hallway (Unedited)"
   - url: /assets/images/GameStills/front_desk.png
     image_path: /assets/images/GameStills/front_desk.png
     alt: "placeholder image 4"
@@ -124,11 +128,11 @@ gallery3:
 
 # Description
 
-Text
+Sons of Saturn is an old school adventure game with a strong emphasis on atmosphere and narrative, brought to life with photos collected by the developers while urban exploring.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandoned locations.
 
 # Trailer
 
-{% include video id="0vpP9D0CwSU" provider="youtube" %}
+{% include video id="wKwTGPumsdE" provider="youtube" %}
 
 # Screenshots
 
