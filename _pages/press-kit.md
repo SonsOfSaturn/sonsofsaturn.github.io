@@ -131,11 +131,11 @@ gallery3:
 
 gallery4:
   - url: /assets/images/characters/jasper_twisted.png
-    image_path: /assets/images/characters/jaspter_twisted.png
+    image_path: /assets/images/characters/jasper_twisted.png
     alt: "placeholder image 1"
     title: "Jasper Twisted"
   - url: /assets/images/characters/jasper_head_tilted.png
-    image_path: /assets/images/characters/jaspter_head_tilted.png
+    image_path: /assets/images/characters/jasper_head_tilted.png
     alt: "placeholder image 1"
     title: "Jasper Head Tilted"
   - url: /assets/images/characters/wiggly_skeptical.png
