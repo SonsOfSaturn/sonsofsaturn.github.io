@@ -58,36 +58,40 @@ gallery2:
     image_path: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     alt: "placeholder image 1"
     title: "Rooftop"
+  - url: /assets/images/rooftop_unedited.jpg
+    image_path: /assets/images/rooftop_unedited.jpg
+    alt: "placeholder image 1"
+    title: "Rooftop"
   - url: /assets/images/GameStills/autopsy_table_1.png
     image_path: /assets/images/GameStills/autopsy_table_1.png
     alt: "placeholder image 2"
     title: "Autopsy Table"
-  - url: /assets/images/GameStills/big_leaking_tunnel.png
-    image_path: /assets/images/GameStills/big_leaking_tunnel.png
-    alt: "placeholder image 3"
-    title: "Drain"
+  - url: /assets/images/autopsy_table_unedited.jpg
+    image_path: /assets/images/autopsy_table_unedited.jpg
+    alt: "placeholder image 2"
+    title: "Autopsy Table (Unedited)"
   - url: /assets/images/GameStills/conduit_hallway.png
     image_path: /assets/images/GameStills/conduit_hallway.png
     alt: "placeholder image 4"
     title: "Conduit Hallway"
-  - url: /assets/images/conduits_unedited.png
-    image_path: /assets/images/conduits_unedited.png
+  - url: /assets/images/conduits_unedited.jpg
+    image_path: /assets/images/conduits_unedited.jpg
     alt: "placeholder image 4"
     title: "Conduit Hallway (Unedited)"
-  - url: /assets/images/GameStills/front_desk.png
-    image_path: /assets/images/GameStills/front_desk.png
+  - url: /assets/images/tann_office_unedited.jpg
+    image_path: /assets/images/tann_office_unedited.jpg
     alt: "placeholder image 4"
-    title: "Front Desk"
+    title: "Office (Unedited)"
   - url: /assets/images/GameStills/tann_office.png
     image_path: /assets/images/GameStills/tann_office.png
     alt: "placeholder image 4"
     title: "Office"
-  - url: /assets/images/GameStills/drain_stairs_2.png
-    image_path: /assets/images/GameStills/drain_stairs_2.png
-    alt: "placeholder image 4"
-    title: "Drain Stairs"
   - url: /assets/images/GameStills/colorful_chair_hall.png
     image_path: /assets/images/GameStills/colorful_chair_hall.png
+    alt: "placeholder image 4"
+    title: "Colorful Chairs"
+  - url: /assets/images/color-chairs-unfiltered.jpg
+    image_path: /assets/images/color-chairs-unfiltered.jpg
     alt: "placeholder image 4"
     title: "Colorful Chairs"
 
