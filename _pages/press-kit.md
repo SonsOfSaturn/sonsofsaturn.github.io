@@ -160,6 +160,12 @@ Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Sev
 
 ![image-center](/assets/images/SonsOfSaturnLogo.png){: .align-center}
 
+# Downloads
+
+You can download all assets (in zip format) by clicking this link:
+
+[Button name](#link){: .btn .btn--success}
+
 # Contact
 
 Charles, the primary developer, is most easily reached via email:
