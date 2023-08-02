@@ -89,7 +89,7 @@ gallery2:
   - url: /assets/images/color-chairs-unfiltered.jpg
     image_path: /assets/images/color-chairs-unfiltered.jpg
     alt: "placeholder image 4"
-    title: "Colorful Chairs"
+    title: "Colorful Chairs (Unedited)"
   - url: /assets/images/GameStills/colorful_chair_hall.png
     image_path: /assets/images/GameStills/colorful_chair_hall.png
     alt: "placeholder image 4"
@@ -144,7 +144,7 @@ Sons of Saturn is an old school adventure game with a strong emphasis on atmosph
 
 # Before and After
 
-Some of the assets used in the game alongside their unedited counterparts.
+Nearly all of the assets used in Sons of Saturn are filtered versions of photos taken of real abandonments.  Below are some of the assets used in the game alongside their unedited counterparts.
 
 {% include gallery id="gallery2" layout="half" %}
 
