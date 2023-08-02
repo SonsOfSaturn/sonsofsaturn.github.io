@@ -138,10 +138,6 @@ gallery4:
     image_path: /assets/images/characters/jaspter_head_tilted.png
     alt: "placeholder image 1"
     title: "Jasper Head Tilted"
-  - url: /assets/images/characters/jasper_sad.png
-    image_path: /assets/images/characters/jaspter_sad.png
-    alt: "placeholder image 1"
-    title: "Jasper Sad"
   - url: /assets/images/characters/wiggly_skeptical.png
     image_path: /assets/images/characters/wiggly_skeptical.png
     alt: "placeholder image 1"
@@ -150,6 +146,38 @@ gallery4:
     image_path: /assets/images/characters/wiggly_thinking.png
     alt: "placeholder image 1"
     title: "Wiggly Thinking"
+  - url: /assets/images/characters/amelie_neutral.png
+    image_path: /assets/images/characters/amelie_neutral.png
+    alt: "placeholder image 1"
+    title: "Amelie Neutral"
+  - url: /assets/images/characters/amelie_uncertain.png
+    image_path: /assets/images/characters/amelie_uncertain.png
+    alt: "placeholder image 1"
+    title: "Amelie Uncertain"
+  - url: /assets/images/characters/julia_lost_in_thought.png
+    image_path: /assets/images/characters/julia_lost_in_thought.png
+    alt: "placeholder image 1"
+    title: "Julia Lost in Thought"
+  - url: /assets/images/characters/julia_sly.png
+    image_path: /assets/images/characters/julia_sly.png
+    alt: "placeholder image 1"
+    title: "Julia Sly"
+  - url: /assets/images/characters/wiggly_hands_in_pockets.png
+    image_path: /assets/images/characters/wiggly_hands_in_pockets.png
+    alt: "placeholder image 1"
+    title: "Wiggly Hands in Pockets"
+  - url: /assets/images/characters/julia_looking_left.png
+    image_path: /assets/images/characters/julia_looking_left.png
+    alt: "placeholder image 1"
+    title: "Julia Looking Left"
+  - url: /assets/images/characters/amelie_string_looking_down.png
+    image_path: /assets/images/characters/amelie_string_looking_down.png
+    alt: "placeholder image 1"
+    title: "Amelie String Looking Down"
+  - url: /assets/images/characters/amelie_string_looking_up.png
+    image_path: /assets/images/characters/amelie_string_looking_up.png
+    alt: "placeholder image 1"
+    title: "Amelie String Looking Up"
 ---
 
 # Description
@@ -180,7 +208,56 @@ Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Sev
 
 A gallery of some of the main characters, in various positions.
 
+{% include gallery id="gallery4" layout="half" %}
+
+# Logo
+
+![image-center](/assets/images/SonsOfSaturnLogo.png){: .align-center}
+
+# Downloads
+
+You can download all assets (in zip format) by clicking this link:
+
+[Button name](#link){: .btn .btn--success}
+
+# Contact
+
+Charles, the primary developer, is most easily reached via email:
+
+> sonsofsaturngame@gmail.com
+
+Also feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
+---
+
+# Description
+
+Sons of Saturn is an old school adventure game with a strong emphasis on atmosphere and narrative, brought to life with photos collected by the developers while urban exploring.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandoned locations.
+
+# Trailer
+
+{% include video id="wKwTGPumsdE" provider="youtube" %}
+
+# Screenshots
+
+{% include gallery id="gallery1" layout="half" %}
+
+# Before and After
+
+Nearly all of the assets used in Sons of Saturn are filtered versions of photos taken of real abandonments.  Below are some of the assets used in the game alongside their unedited counterparts.
+
+{% include gallery id="gallery2" layout="half" %}
+
+# Artwork
+
+Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Several of his pieces are included below.
+
 {% include gallery id="gallery3" layout="half" %}
+
+# Characters
+
+A gallery of some of the main characters, in various positions.
+
+{% include gallery id="gallery4" layout="half" %}
 
 # Logo
 
