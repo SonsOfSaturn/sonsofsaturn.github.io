@@ -54,30 +54,30 @@ gallery1:
 
 
 gallery2:
+  - url: /assets/images/rooftop_unedited.jpg
+    image_path: /assets/images/rooftop_unedited.jpg
+    alt: "placeholder image 1"
+    title: "Rooftop (Unedited)"
   - url: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     image_path: /assets/images/GameStills/atown_rooftop_over_breezeway.png
     alt: "placeholder image 1"
     title: "Rooftop"
-  - url: /assets/images/rooftop_unedited.jpg
-    image_path: /assets/images/rooftop_unedited.jpg
-    alt: "placeholder image 1"
-    title: "Rooftop"
-  - url: /assets/images/GameStills/autopsy_table_1.png
-    image_path: /assets/images/GameStills/autopsy_table_1.png
-    alt: "placeholder image 2"
-    title: "Autopsy Table"
   - url: /assets/images/autopsy_table_unedited.jpg
     image_path: /assets/images/autopsy_table_unedited.jpg
     alt: "placeholder image 2"
     title: "Autopsy Table (Unedited)"
-  - url: /assets/images/GameStills/conduit_hallway.png
-    image_path: /assets/images/GameStills/conduit_hallway.png
-    alt: "placeholder image 4"
-    title: "Conduit Hallway"
+  - url: /assets/images/GameStills/autopsy_table_1.png
+    image_path: /assets/images/GameStills/autopsy_table_1.png
+    alt: "placeholder image 2"
+    title: "Autopsy Table"
   - url: /assets/images/conduits_unedited.jpg
     image_path: /assets/images/conduits_unedited.jpg
     alt: "placeholder image 4"
     title: "Conduit Hallway (Unedited)"
+  - url: /assets/images/GameStills/conduit_hallway.png
+    image_path: /assets/images/GameStills/conduit_hallway.png
+    alt: "placeholder image 4"
+    title: "Conduit Hallway"
   - url: /assets/images/tann_office_unedited.jpg
     image_path: /assets/images/tann_office_unedited.jpg
     alt: "placeholder image 4"
@@ -86,12 +86,12 @@ gallery2:
     image_path: /assets/images/GameStills/tann_office.png
     alt: "placeholder image 4"
     title: "Office"
-  - url: /assets/images/GameStills/colorful_chair_hall.png
-    image_path: /assets/images/GameStills/colorful_chair_hall.png
-    alt: "placeholder image 4"
-    title: "Colorful Chairs"
   - url: /assets/images/color-chairs-unfiltered.jpg
     image_path: /assets/images/color-chairs-unfiltered.jpg
+    alt: "placeholder image 4"
+    title: "Colorful Chairs"
+  - url: /assets/images/GameStills/colorful_chair_hall.png
+    image_path: /assets/images/GameStills/colorful_chair_hall.png
     alt: "placeholder image 4"
     title: "Colorful Chairs"
 
