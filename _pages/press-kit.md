@@ -34,23 +34,23 @@ gallery1:
   - url: /assets/images/ss-roaming-washers_1.png
     image_path: /assets/images/ss-roaming-washers_1.png
     alt: "placeholder image 4"
-    title: "Conduit Hallway"
+    title: "Washers"
   - url: /assets/images/ss-convo-stagehell.png
     image_path: /assets/images/ss-convo-stagehell.png
     alt: "placeholder image 4"
-    title: "Front Desk"
+    title: "Hell"
   - url: /assets/images/ss-convo-ladder.png
     image_path: /assets/images/ss-convo-ladder.png
     alt: "placeholder image 4"
-    title: "Office"
+    title: "Ladder Convo"
   - url: /assets/images/ss-convo-tanndesk.png
     image_path: /assets/images/ss-convo-tanndesk.png
     alt: "placeholder image 4"
-    title: "Drain Stairs"
+    title: "Desk Convo"
   - url: /assets/images/ss-convo-juststoodup.png
     image_path: /assets/images/ss-convo-juststoodup.png
     alt: "placeholder image 4"
-    title: "Colorful Chairs"
+    title: "Just Stood Up"
 
 
 gallery2:
