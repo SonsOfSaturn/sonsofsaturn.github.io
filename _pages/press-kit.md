@@ -128,6 +128,28 @@ gallery3:
     image_path: /assets/images/SubParis_4.jpg
     alt: "placeholder image 1"
     title: "Sub-Paris"
+
+gallery4:
+  - url: /assets/images/characters/jasper_twisted.png
+    image_path: /assets/images/characters/jaspter_twisted.png
+    alt: "placeholder image 1"
+    title: "Jasper Twisted"
+  - url: /assets/images/characters/jasper_head_tilted.png
+    image_path: /assets/images/characters/jaspter_head_tilted.png
+    alt: "placeholder image 1"
+    title: "Jasper Head Tilted"
+  - url: /assets/images/characters/jasper_sad.png
+    image_path: /assets/images/characters/jaspter_sad.png
+    alt: "placeholder image 1"
+    title: "Jasper Sad"
+  - url: /assets/images/characters/wiggly_skeptical.png
+    image_path: /assets/images/characters/wiggly_skeptical.png
+    alt: "placeholder image 1"
+    title: "Wiggly Skeptical"
+  - url: /assets/images/characters/wiggly_thinking.png
+    image_path: /assets/images/characters/wiggly_thinking.png
+    alt: "placeholder image 1"
+    title: "Wiggly Thinking"
 ---
 
 # Description
@@ -155,6 +177,10 @@ Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Sev
 {% include gallery id="gallery3" layout="half" %}
 
 # Characters
+
+A gallery of some of the main characters, in various positions.
+
+{% include gallery id="gallery3" layout="half" %}
 
 # Logo
 
