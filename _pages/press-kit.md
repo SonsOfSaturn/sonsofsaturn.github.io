@@ -150,8 +150,16 @@ Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Sev
 
 {% include gallery id="gallery3" layout="half" %}
 
+# Characters
+
 # Logo
 
 ![image-center](/assets/images/SonsOfSaturnLogo.png){: .align-center}
 
 # Contact
+
+Charles, the primary developer, is most easily reached via email:
+
+> sonsofsaturngame@gmail.com
+
+Also feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
