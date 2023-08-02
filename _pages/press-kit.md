@@ -71,7 +71,7 @@ gallery2:
     alt: "placeholder image 4"
     title: "Conduit Hallway"
   - url: /assets/images/conduits_unedited.png
-    image_path: /assets/images/GameStills/conduit_hallway.png
+    image_path: /assets/images/conduits_unedited.png
     alt: "placeholder image 4"
     title: "Conduit Hallway (Unedited)"
   - url: /assets/images/GameStills/front_desk.png
