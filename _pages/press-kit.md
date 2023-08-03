@@ -174,7 +174,7 @@ gallery4:
 
 # Description
 
-Sons of Saturn is an old school adventure game set in an abandoned underground city, brought to life with photos of real abandoned locations.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandonedments.  
+Sons of Saturn is an old school adventure game set in an abandoned underground city, brought to life with photos of real abandoned locations.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real abandoned psych hospitals, schools, and industrial sites.  
 
 ## Release Date 
 
@@ -228,9 +228,9 @@ Alternatively, you can download only the logo, in both png and psd formats, by c
 
 [Download Logo (8.5 MiB)](/assets/SonsOfSaturnLogo.zip){: .btn .btn--success}
 
-You can also download an mp4 of the trailer, or simply rely on the youtube video embedded at the top of the page:
+You can also download a zipped mp4 of the trailer, or simply rely on the youtube video embedded at the top of the page:
 
-[Download Trailer (19.1 MiB)](/assets/SoSTrailer.mp4){: .btn .btn--success}
+[Download Trailer (19.1 MiB)](/assets/SoSTrailer.zip){: .btn .btn--success}
 
 # Contact
 
