@@ -206,11 +206,15 @@ A gallery of some of the main characters, in various positions.
 
 ![image-center](/assets/images/SonsOfSaturnLogo.png){: .align-center}
 
-# Downloads
+# Download
 
 You can download all assets (in zip format) by clicking this link:
 
-[Download](/assets/SonsOfSaturnAssets.zip){: .btn .btn--success}
+[Download (98.4 MiB)](/assets/SonsOfSaturnAssets.zip){: .btn .btn--success}
+
+Alternativelyy, you can download only the logo, in both png and psd formats, by clicking the link below:
+
+[Download (8.5 MiB)](/assets/SonsOfSaturnLogo.zip){: .btn .btn--success}
 
 # Contact
 
