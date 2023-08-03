@@ -210,7 +210,7 @@ A gallery of some of the main characters, in various positions.
 
 You can download all assets (in zip format) by clicking this link:
 
-[Download](SonsOfSaturn.zip){: .btn .btn--success}
+[Download](/assets/SonsOfSaturnAssets.zip){: .btn .btn--success}
 
 # Contact
 
