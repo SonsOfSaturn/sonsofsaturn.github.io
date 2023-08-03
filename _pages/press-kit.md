@@ -130,14 +130,6 @@ gallery3:
     title: "Sub-Paris"
 
 gallery4:
-  - url: /assets/images/characters/jasper_twisted.png
-    image_path: /assets/images/characters/jasper_twisted.png
-    alt: "placeholder image 1"
-    title: "Jasper Twisted"
-  - url: /assets/images/characters/jasper_head_tilted.png
-    image_path: /assets/images/characters/jasper_head_tilted.png
-    alt: "placeholder image 1"
-    title: "Jasper Head Tilted"
   - url: /assets/images/characters/wiggly_skeptical.png
     image_path: /assets/images/characters/wiggly_skeptical.png
     alt: "placeholder image 1"
@@ -170,15 +162,31 @@ gallery4:
     image_path: /assets/images/characters/amelie_string_looking_up.png
     alt: "placeholder image 1"
     title: "Amelie String Looking Up"
+  - url: /assets/images/characters/jasper_twisted.png
+    image_path: /assets/images/characters/jasper_twisted.png
+    alt: "placeholder image 1"
+    title: "Jasper Twisted"
+  - url: /assets/images/characters/jasper_head_tilted.png
+    image_path: /assets/images/characters/jasper_head_tilted.png
+    alt: "placeholder image 1"
+    title: "Jasper Head Tilted"
 ---
 
 # Description
 
 Sons of Saturn is an old school adventure game set in an abandoned underground city, brought to life with photos of real abandoned locations.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandonedments.  
 
-Planned Release Date: November 2023
-Platforms: Windows, Mac, and Linux.
-Developers: The Saturn Studio
+## Release Date 
+
+November 2023
+
+## Platforms
+
+Windows, Mac, and Linux.
+
+## Developers
+
+The Saturn Studio
 
 # Trailer
 
