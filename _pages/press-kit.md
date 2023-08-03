@@ -214,11 +214,15 @@ A gallery of some of the main characters, in various positions.
 
 You can download all assets (in zip format) by clicking this link:
 
-[Download (98.4 MiB)](/assets/SonsOfSaturnAssets.zip){: .btn .btn--success}
+[Download Assets (98.4 MiB)](/assets/SonsOfSaturnAssets.zip){: .btn .btn--success}
 
 Alternatively, you can download only the logo, in both png and psd formats, by clicking the link below:
 
-[Download (8.5 MiB)](/assets/SonsOfSaturnLogo.zip){: .btn .btn--success}
+[Download Logo (8.5 MiB)](/assets/SonsOfSaturnLogo.zip){: .btn .btn--success}
+
+You can also download an mp4 of the trailer, or simply rely on the youtube video embedded at the top of the page:
+
+[Download Trailer (19.1 MiB)](/assets/SoSTrailer.mp4){: .btn .btn--success}
 
 # Contact
 
