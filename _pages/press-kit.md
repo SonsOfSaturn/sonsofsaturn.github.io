@@ -162,14 +162,6 @@ gallery4:
     image_path: /assets/images/characters/julia_sly.png
     alt: "placeholder image 1"
     title: "Julia Sly"
-  - url: /assets/images/characters/wiggly_hands_in_pockets.png
-    image_path: /assets/images/characters/wiggly_hands_in_pockets.png
-    alt: "placeholder image 1"
-    title: "Wiggly Hands in Pockets"
-  - url: /assets/images/characters/julia_looking_left.png
-    image_path: /assets/images/characters/julia_looking_left.png
-    alt: "placeholder image 1"
-    title: "Julia Looking Left"
   - url: /assets/images/characters/amelie_string_looking_down.png
     image_path: /assets/images/characters/amelie_string_looking_down.png
     alt: "placeholder image 1"
