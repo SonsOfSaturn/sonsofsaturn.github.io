@@ -210,7 +210,7 @@ A gallery of some of the main characters, in various positions.
 
 You can download all assets (in zip format) by clicking this link:
 
-[Button name](#link){: .btn .btn--success}
+[Download](SonsOfSaturn.zip){: .btn .btn--success}
 
 # Contact
 
@@ -220,51 +220,3 @@ Charles, the primary developer, is most easily reached via email:
 
 Also feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
 ---
-
-# Description
-
-Sons of Saturn is an old school adventure game with a strong emphasis on atmosphere and narrative, brought to life with photos collected by the developers while urban exploring.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandoned locations.
-
-# Trailer
-
-{% include video id="wKwTGPumsdE" provider="youtube" %}
-
-# Screenshots
-
-{% include gallery id="gallery1" layout="half" %}
-
-# Before and After
-
-Nearly all of the assets used in Sons of Saturn are filtered versions of photos taken of real abandonments.  Below are some of the assets used in the game alongside their unedited counterparts.
-
-{% include gallery id="gallery2" layout="half" %}
-
-# Artwork
-
-Sons of Saturn makes use of several collage pieces from artist Alex Burden.  Several of his pieces are included below.
-
-{% include gallery id="gallery3" layout="half" %}
-
-# Characters
-
-A gallery of some of the main characters, in various positions.
-
-{% include gallery id="gallery4" layout="half" %}
-
-# Logo
-
-![image-center](/assets/images/SonsOfSaturnLogo.png){: .align-center}
-
-# Downloads
-
-You can download all assets (in zip format) by clicking this link:
-
-[Button name](#link){: .btn .btn--success}
-
-# Contact
-
-Charles, the primary developer, is most easily reached via email:
-
-> sonsofsaturngame@gmail.com
-
-Also feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
