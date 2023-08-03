@@ -174,7 +174,11 @@ gallery4:
 
 # Description
 
-Sons of Saturn is an old school adventure game with a strong emphasis on atmosphere and narrative, brought to life with photos collected by the developers while urban exploring.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandoned locations.
+Sons of Saturn is an old school adventure game set in an abandoned underground city, brought to life with photos of real abandoned locations.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real life abandonedments.  
+
+Planned Release Date: November 2023
+Platforms: Windows, Mac, and Linux.
+Developers: The Saturn Studio
 
 # Trailer
 
@@ -222,5 +226,6 @@ Charles, the primary developer, is most easily reached via email:
 
 > sonsofsaturngame@gmail.com
 
-Also feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
+Alternatively, feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
+
 ---
