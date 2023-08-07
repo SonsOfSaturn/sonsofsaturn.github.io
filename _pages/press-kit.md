@@ -174,7 +174,15 @@ gallery4:
 
 # Description
 
-Sons of Saturn is an old school adventure game set in an abandoned underground city, brought to life with photos of real abandoned locations.  Think “Cosmology of Kyoto,” but with nearly all of the images and assets drawn from real abandoned psych hospitals, schools, and industrial sites.  
+How can we live in an unjust world?  What cruel entity forced us to be conscious in a universe with such suffering?  Why is a hideous stuffed cat talking to me, and why can no one else hear them?
+
+Sons of Saturn is an old school adventure game set in an abandoned underground city, brought to life with photos of real abandoned locations.  Explore the depths of both the underground city of Minerva and the protagonists' psyches.   Investigate both the cause of your pain and the warts that have colonized your brain.
+
+## Development
+
+Development was primarily developed by Charles Lawson.  Charles spent several years photographing abandoned asylums and industrial sites all over the world for use in Sons of Saturn, and is responsible for all programming, writing, and asset creation.
+
+Sons of Saturn also relies on tracks from electronic musician Seth Emans, and collage pieces from artist Alex Burden.
 
 ## Release Date 
 
