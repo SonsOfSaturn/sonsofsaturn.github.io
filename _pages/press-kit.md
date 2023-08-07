@@ -27,22 +27,22 @@ gallery1:
     image_path: /assets/images/ss-roaming-conduits.png
     alt: "placeholder image 4"
     title: "Conduits"
+  - url: /assets/images/ss-roaming-tunnel.png
+    image_path: /assets/images/ss-roaming-tunnel.png
+    alt: "placeholder image 3"
+    title: "Tunnel"
   - url: /assets/images/ss-roaming-brightarch.png
     image_path: /assets/images/ss-roaming-brightarch.png
     alt: "placeholder image 1"
     title: "Arches"
-  - url: /assets/images/ss-roaming-drugs.png
-    image_path: /assets/images/ss-roaming-drugs.png
-    alt: "placeholder image 2"
-    title: "Drugged"
-  - url: /assets/images/ss-roaming-topfloor.png
-    image_path: /assets/images/ss-roaming-topfloor.png
-    alt: "placeholder image 3"
-    title: "Hallway"
   - url: /assets/images/ss-roaming-washers_1.png
     image_path: /assets/images/ss-roaming-washers_1.png
     alt: "placeholder image 4"
     title: "Washers"
+  - url: /assets/images/ss-roaming-drugs.png
+    image_path: /assets/images/ss-roaming-drugs.png
+    alt: "placeholder image 2"
+    title: "Drugged"
   - url: /assets/images/ss-convo-stagehell.png
     image_path: /assets/images/ss-convo-stagehell.png
     alt: "placeholder image 4"
