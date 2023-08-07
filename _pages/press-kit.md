@@ -180,7 +180,7 @@ Sons of Saturn is an old school adventure game set in an abandoned underground c
 
 ## Development
 
-Development was primarily developed by Charles Lawson.  Charles spent several years photographing abandoned asylums and industrial sites all over the world for use in Sons of Saturn, and is responsible for all programming, writing, and asset creation.
+Sons of Saturn was primarily developed by Charles Lawson.  Charles spent several years photographing abandoned asylums and industrial sites all over the world for use in Sons of Saturn, and is responsible for all programming, writing, and asset creation.
 
 Sons of Saturn also relies on tracks from electronic musician Seth Emans, and collage pieces from artist Alex Burden.
 
