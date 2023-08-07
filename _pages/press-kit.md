@@ -19,6 +19,14 @@ author:
 author_profile: true
 
 gallery1:
+  - url: /assets/images/ss-roaming-overgrowth.png
+    image_path: /assets/images/ss-roaming-overgrowth.png
+    alt: "placeholder image 3"
+    title: "Overgrowth"
+  - url: /assets/images/ss-roaming-conduits.png
+    image_path: /assets/images/ss-roaming-conduits.png
+    alt: "placeholder image 4"
+    title: "Conduits"
   - url: /assets/images/ss-roaming-brightarch.png
     image_path: /assets/images/ss-roaming-brightarch.png
     alt: "placeholder image 1"
