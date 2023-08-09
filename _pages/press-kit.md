@@ -248,6 +248,10 @@ You can also download a zipped mp4 of the trailer, or simply rely on the youtube
 
 [Download Trailer (19.1 MiB)](/assets/SoSTrailer.zip){: .btn .btn--success}
 
+# Coverage
+
+Our announcement was covered by [Bloody Disgusting!](https://bloody-disgusting.com/video-games/3774447/upcoming-adventure-game-sons-of-saturn-explores-the-horrors-of-the-psyche-trailer/)
+
 # Contact
 
 Charles, the primary developer, is most easily reached via email:
