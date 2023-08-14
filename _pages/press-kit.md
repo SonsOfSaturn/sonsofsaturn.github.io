@@ -250,17 +250,15 @@ You can also download a zipped mp4 of the trailer, or simply rely on the youtube
 
 # Coverage
 
-https://bloody-disgusting.com/video-games/3774447/upcoming-adventure-game-sons-of-saturn-explores-the-horrors-of-the-psyche-trailer/
+[Bloody Disgusting](https://bloody-disgusting.com/video-games/3774447/upcoming-adventure-game-sons-of-saturn-explores-the-horrors-of-the-psyche-trailer/)
 
-https://vulgarknight.com/sons-of-saturn-demo/
+[Vulgar Knight](https://vulgarknight.com/sons-of-saturn-demo/)
 
-https://linuxgameconsortium.com/sons-of-saturn-demo-out-now-on-linux/
+[Linux Game Consortium](https://linuxgameconsortium.com/sons-of-saturn-demo-out-now-on-linux/)
 
-https://adventuregamehotspot.com/2023/08/12/demo-delivered-for-sons-of-saturn/
+[Adventure Game Hotspot](https://adventuregamehotspot.com/2023/08/12/demo-delivered-for-sons-of-saturn/)
 
-https://hungary.postsen.com/technology/240490/This-year%E2%80%99s-most-surreal-video-game-will-be-Sons-of-Saturn-in-which-the-Eiffel-Tower-is-also-upside-down.html
-
-https://www.gtogg.com/News/en/Intriguingly_eerie_adventure_game_Sons_of_Saturn_announced/
+[GTOGG](https://www.gtogg.com/News/en/Intriguingly_eerie_adventure_game_Sons_of_Saturn_announced/)
 
 # Contact
 
