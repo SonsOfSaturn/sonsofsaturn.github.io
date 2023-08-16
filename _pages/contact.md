@@ -10,7 +10,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sonsofsaturngame@gmail.com"
+      url: "mailto:charles@sonsofsaturngame.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/interstitial_explorer"
@@ -20,6 +20,6 @@ date: 2023-06-01T03:19:20+00:00
 
 If you have questions about the game, or would like to see a demo, or just want to say hi, don't hesitate to get in touch!  The best way is to shoot us an email at
 
-> sonsofsaturngame@gmail.com
+> charles@sonsofsaturngame.com
 
 We look forward to hearing from you!

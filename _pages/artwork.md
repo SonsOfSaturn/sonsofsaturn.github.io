@@ -11,7 +11,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sonsofsaturngame@gmail.com"
+      url: "mailto:charles@sonsofsaturngame.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/interstitial_explorer"

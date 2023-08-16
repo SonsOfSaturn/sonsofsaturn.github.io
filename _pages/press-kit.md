@@ -12,7 +12,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sonsofsaturngame@gmail.com"
+      url: "mailto:charles@sonsofsaturngame.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/interstitial_explorer"
@@ -264,7 +264,7 @@ You can also download a zipped mp4 of the trailer, or simply rely on the youtube
 
 Charles, the primary developer, is most easily reached via email:
 
-> sonsofsaturngame@gmail.com
+> charles@sonsofsaturngame.com 
 
 Alternatively, feel free to shoot me a message on [instagram.](https://www.instagram.com/interstitial_explorer/)
 
