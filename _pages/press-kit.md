@@ -260,6 +260,8 @@ You can also download a zipped mp4 of the trailer, or simply rely on the youtube
 
 [GTOGG](https://www.gtogg.com/News/en/Intriguingly_eerie_adventure_game_Sons_of_Saturn_announced/)
 
+[The Indie Curators](https://www.theindiecurators.com/the-games/sons-of-saturn)
+
 # Contact
 
 Charles, the primary developer, is most easily reached via email:
