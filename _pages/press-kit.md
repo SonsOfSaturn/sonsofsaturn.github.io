@@ -194,7 +194,7 @@ Sons of Saturn also relies on tracks from electronic musician Seth Emans, and co
 
 ## Release Date 
 
-November 2023
+November 30th, 2023.
 
 ## Platforms
 
