@@ -46,7 +46,7 @@ Sons of Saturn is primarily solo-developed by Charles Lawson.  Charles collected
 
 # Contributors
 
-Music Producer Seth Emans provided several compositions for the Sons of Saturn soundtrack.  You can find more of his work [here.](https://singularity27-productions.bandcamp.com/music)
+Music Producer Seth Emans provided several compositions for the Sons of Saturn soundtrack.  You can find more of his work [here.](https://sierra27.bandcamp.com/)
 
 <figure>
 	<a href="https://sonsofsaturngame.com/assets/images/seth.jpg"><img src="https://sonsofsaturngame.com/assets/images/seth.jpg"></a>
